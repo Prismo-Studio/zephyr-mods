@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-04-05T17:29:00.377Z",
+  "mods": [
+    {
+      "name": "Example Mod",
+      "slug": "example-mod",
+      "author": "Prismo Studio",
+      "version": "1.0.0",
+      "description": "An example mod to demonstrate the registry format",
+      "games": [
+        "lethal-company"
+      ],
+      "dependencies": [
+        "BepInEx"
+      ],
+      "repository": "https://github.com/Prismo-Studio/example-mod",
+      "download": "https://github.com/Prismo-Studio/example-mod/releases/download/v1.0.0/ExampleMod.dll",
+      "categories": [
+        "Mods"
+      ],
+      "nsfw": false,
+      "deprecated": false,
+      "icon": null,
+      "readme": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/example-mod/README.md",
+      "changelog": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/example-mod/CHANGELOG.md",
+      "config": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/example-mod/config.json"
+    }
+  ]
+}
