@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-04-05T17:29:00.377Z",
+  "lastUpdated": "2026-04-05T18:21:45.617Z",
   "mods": [
     {
       "name": "Example Mod",
@@ -25,6 +25,30 @@
       "readme": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/example-mod/README.md",
       "changelog": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/example-mod/CHANGELOG.md",
       "config": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/example-mod/config.json"
+    },
+    {
+      "name": "Injury System",
+      "slug": "repo-injury-system",
+      "author": "MathisBls",
+      "version": "1.0.0",
+      "description": "Adds a realistic injury system to R.E.P.O. Body parts get injured on damage, affecting movement, grip, vision, and stamina.",
+      "games": [
+        "repo"
+      ],
+      "dependencies": [
+        "BepInEx"
+      ],
+      "repository": "https://github.com/MathisBls/R.E.P.O-injury-system",
+      "download": "https://github.com/MathisBls/R.E.P.O-injury-system/releases/download/v1.0.0/InjurySystem.dll",
+      "categories": [
+        "Mods"
+      ],
+      "nsfw": false,
+      "deprecated": false,
+      "icon": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/repo-injury-system/icon.png",
+      "readme": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/repo-injury-system/README.md",
+      "changelog": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/repo-injury-system/CHANGELOG.md",
+      "config": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/main/mods/repo-injury-system/config.json"
     }
   ]
 }
