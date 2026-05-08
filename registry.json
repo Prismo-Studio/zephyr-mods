@@ -1,7 +1,7 @@
 {
 	"$schema": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/master/schema/registry.schema.json",
 	"version": 1,
-	"generated": "2026-05-08T12:46:10.646Z",
+	"generated": "2026-05-08T13:50:11.535Z",
 	"mods": [
 		{
 			"name": "Injury System",
@@ -11,12 +11,20 @@
 			"description": "A BepInEx mod for R.E.P.O that adds a realistic injury system. When you take damage, body parts can get injured with different severity levels, affecting your movement, grip, vision, and stamina.",
 			"categories": [],
 			"dependencies": [],
-			"latest": "1.0.0",
+			"latest": "1.0.1",
 			"repository": "https://github.com/MathisBls/R.E.P.O-injury-system",
 			"icon": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/master/mods/repo/MathisBls/injury-system/icon.png",
 			"readme": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/master/mods/repo/MathisBls/injury-system/README.md",
 			"changelog": "https://raw.githubusercontent.com/Prismo-Studio/zephyr-mods/master/mods/repo/MathisBls/injury-system/CHANGELOG.md",
 			"versions": [
+				{
+					"version": "1.0.1",
+					"released": "2026-05-08T13:41:20Z",
+					"url": "https://github.com/MathisBls/R.E.P.O-injury-system/releases/download/v1.0.1/InjurySystem.dll",
+					"sha256": "79a0e90b8abeb9e1ad2807e7a0d4265f5595b9e18e75e379206b02a435697c3b",
+					"size": 40448,
+					"changelog": "**Full Changelog**: https://github.com/MathisBls/R.E.P.O-injury-system/compare/v1.0.0...v1.0.1\r\n\r\nJust a bump"
+				},
 				{
 					"version": "1.0.0",
 					"released": "2026-04-05T17:59:05Z",
